@@ -14,11 +14,12 @@ We use investing.com dataset of news articles.
 # Datasets
 investing.com news articles
 
-We propose a novel method SALT: Sentiment Analysis for Long Text with unsupervised learning
+We propose a novel method SALT: 
+# Sentiment Analysis for Long Text 
 
 # What is Sentiment Analysis?
 Sentiment analysis, also known as opinion mining, is a computational technique that involves the use of natural language processing, machine learning, and statistical methods to analyze and determine the emotional tone, attitudes, and opinions expressed in textual data. In an era dominated by vast amounts of user-generated content on social media, reviews, and other online platforms, sentiment analysis has emerged as a crucial tool for understanding and extracting valuable insights from the immense volume of textual information.
 
 # How to run this project 
-Run the jupyter file
+Run the below jupyter file
 # /model/notebooks/Sentiment Analysis for Long Text.ipynb
