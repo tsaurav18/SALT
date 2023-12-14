@@ -1,5 +1,5 @@
 # SALT
-# This project is written in Python Langauge 
+This project is written in Python Langauge 
 
 # *** --> Modules are required in this project: 
 Python version: 3.7.16 (default, Jan 17 2023, 22:20:44) 
@@ -9,7 +9,7 @@ pandas version: 1.3.5
 sklearn version: 1.0.2
 nltk version: 3.8.1
 gensim version: 4.2.0
-# We use investing.com dataset of news articles.
+We use investing.com dataset of news articles.
 
 # We propose a novel method SALT: Sentiment Analysis for Long Text 
 
