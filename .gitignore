@@ -1,5 +1,5 @@
 ./data/movie_data.csv
-./investing_com.csv
+./data/investing_com.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
